@@ -1,0 +1,24 @@
+{
+  "name": "GamaAcademy-RN-Typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuslira13/GamaAcademy-RN-Typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuslira13/GamaAcademy-RN-Typescript/issues"
+  },
+  "homepage": "https://github.com/matheuslira13/GamaAcademy-RN-Typescript#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
